@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👨🏽‍💻 Jean Lucas
 
-<!--
-**Jeanlucass88/Jeanlucass88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Olá! Meu nome é Jean Lucas, tenho 20 anos e atualmente estou cursando Sistemas de Informação. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre desenvolvimento de software e inovações que transformam o mundo digital.
+Atualmente, tenho meu foco de estudo em React e Node.js, buscando evoluir tanto no front-end quanto no back-end para me tornar um desenvolvedor full stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens e tecnologias
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c#)](https://skillicons.dev)
+
+### 🚀Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
