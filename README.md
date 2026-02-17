@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Jean Lucas
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Júnior`**
 
 Olá! Meu nome é Jean Lucas, tenho 20 anos e atualmente estou cursando Sistemas de Informação. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre desenvolvimento de software e inovações que transformam o mundo digital.
 Atualmente, tenho meu foco de estudo em React e Node.js, buscando evoluir tanto no front-end quanto no back-end para me tornar um desenvolvedor full stack.
